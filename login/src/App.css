@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  color: blue;
+  background-color: wheat;
+  padding: 4px;
+}
+
+.form{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

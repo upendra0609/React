@@ -1,0 +1,25 @@
+{
+  "name": "reactapplication",
+  "version": "1.0.0",
+  "description": "React Full Stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    "SPA",
+    "PWA"
+  ],
+  "author": "Sikku",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}

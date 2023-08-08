@@ -1,0 +1,14 @@
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 100px;
+  }
+  
+  
+.desc {
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+    margin-top: 1;
+  }
